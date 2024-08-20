@@ -60,7 +60,7 @@ nav ul li a.active, nav ul li a:hover {
 
 #home {
     height: 70vh;
-    background: url('bac.jpg') no-repeat center center/cover;
+    background: url('image/bac.jpg') no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
